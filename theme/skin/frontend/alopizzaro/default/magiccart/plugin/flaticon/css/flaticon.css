@@ -1,0 +1,65 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 08/09/2016 04:44
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticon.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("./Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+font-style: normal;
+}
+
+.flaticon-arrow:before { content: "\f100"; }
+.flaticon-arrow-pointing-to-right:before { content: "\f101"; }
+.flaticon-back:before { content: "\f102"; }
+.flaticon-bag:before { content: "\f103"; }
+.flaticon-cogwheel:before { content: "\f104"; }
+.flaticon-dinner:before { content: "\f105"; }
+.flaticon-dustbin:before { content: "\f106"; }
+.flaticon-email:before { content: "\f107"; }
+.flaticon-gps:before { content: "\f108"; }
+.flaticon-gps-1:before { content: "\f109"; }
+.flaticon-heart:before { content: "\f10a"; }
+.flaticon-layout:before { content: "\f10b"; }
+.flaticon-left-quote:before { content: "\f10c"; }
+.flaticon-lock:before { content: "\f10d"; }
+.flaticon-minus:before { content: "\f10e"; }
+.flaticon-multimedia:before { content: "\f10f"; }
+.flaticon-next:before { content: "\f110"; }
+.flaticon-passage-of-time:before { content: "\f111"; }
+.flaticon-phone-call:before { content: "\f112"; }
+.flaticon-phone-call-1:before { content: "\f113"; }
+.flaticon-placeholder:before { content: "\f114"; }
+.flaticon-plus-symbol:before { content: "\f115"; }
+.flaticon-reload:before { content: "\f116"; }
+.flaticon-right-arrow:before { content: "\f117"; }
+.flaticon-right-arrow-1:before { content: "\f118"; }
+.flaticon-rocket:before { content: "\f119"; }
+.flaticon-scooter:before { content: "\f11a"; }
+.flaticon-search:before { content: "\f11b"; }
+.flaticon-settings:before { content: "\f11c"; }
+.flaticon-shopping-bag:before { content: "\f11d"; }
+.flaticon-signs:before { content: "\f11e"; }
+.flaticon-signs-1:before { content: "\f11f"; }
+.flaticon-star:before { content: "\f120"; }
+.flaticon-technology:before { content: "\f121"; }
+.flaticon-tool:before { content: "\f122"; }
+.flaticon-view:before { content: "\f123"; }

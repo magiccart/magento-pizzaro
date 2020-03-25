@@ -1,0 +1,440 @@
+<?xml version="1.0"?>
+<root>
+  <block>
+    <item>
+      <title><![CDATA[Footer Links]]></title>
+      <identifier><![CDATA[footer_links]]></identifier>
+      <content><![CDATA[
+<ul>
+    <li><a href="{{store direct_url="about-magento-demo-store"}}">About Us</a></li>
+    <li><a href="{{store direct_url="customer-service"}}">Customer Service</a></li>
+<li class="last privacy"><a href="{{store direct_url="privacy-policy-cookie-restriction-mode"}}">Privacy Policy</a></li>
+</ul>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Footer Links Company]]></title>
+      <identifier><![CDATA[footer_links_company]]></identifier>
+      <content><![CDATA[
+<div class="links">
+    <div class="block-title">
+        <strong><span>Company</span></strong>
+    </div>
+    <ul>
+        <li><a href="{{store url=""}}about-magento-demo-store/">About Us</a></li>
+        <li><a href="{{store url=""}}contacts/">Contact Us</a></li>
+        <li><a href="{{store url=""}}customer-service/">Customer Service</a></li>
+        <li><a href="{{store url=""}}privacy-policy-cookie-restriction-mode/">Privacy Policy</a></li>
+    </ul>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Cookie restriction notice]]></title>
+      <identifier><![CDATA[cookie_restriction_notice_block]]></identifier>
+      <content><![CDATA[<p>This website requires cookies to provide all of its features. For more information on what data is contained in the cookies, please see our <a href="{{store direct_url="privacy-policy-cookie-restriction-mode"}}">Privacy Policy page</a>. To accept cookies from this site, please click the Allow button below.</p>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Links and Hotline]]></title>
+      <identifier><![CDATA[hotline]]></identifier>
+      <content><![CDATA[<div class="main-header">
+    <div class="sec-service">
+		<div class="toggle-tab">
+			<div class="icon-head lnr lnr-user"><span class="hidden">hidden</span></div>
+		</div>
+		<div class="toggle-content">
+			<ul class="menu">
+				<li class="menu-item"><a href="{{store url=""}}customer-service/">Customer Service</a></li>
+				<li class="menu-item"><a href="{{store url=""}}about-magento-demo-store/">About</a></li>
+				<li class="menu-item"><a href="{{store url=""}}contacts/">Contact Us</a></li>
+				<li class="menu-item"><a href="{{store url=""}}locations/">Locations</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="support">
+		<span>Call and Order in <span class="address">London</span></span>
+		<span class="big-phone">54 548 779 654</span>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Menu Block Right Pizza]]></title>
+      <identifier><![CDATA[menu-block-right-pizza]]></identifier>
+      <content><![CDATA[<div class="cms-static-banner-menu-right banner-menu-right">
+	<div class="banner-menu-box">
+		<a href="#"><img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/img-menu-right.png"}}" alt="" /></a>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[store_contact]]></title>
+      <identifier><![CDATA[store_contact]]></identifier>
+      <content><![CDATA[<div class="store-contact">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-6 col-sm-3 col-md-3 store1">
+				<div class="store-item">
+				    <h3 class="block-title">Store 1</h3>
+					<ul class="store_info">
+					    <li>
+							<span class="fa fa-envelope icons"><span class="hidden">hidden</span></span>
+							<p class="flex">
+								<span class="tit-name">Email</span>
+								<span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@alothemes.com</a></span>
+								<span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@supermarket.com</a></span>
+							</p>
+						</li>
+						<li>
+							<span class="fa fa-phone icons"><span class="hidden">hidden</span></span>
+							<p class="flex">
+								<span class="tit-name">Phone</span>
+								<span class="tit-contain">+ 021.343.7575</span>
+								<span class="tit-contain">+ 021.343.7575</span>
+							</p>
+						</li>
+						<li>
+							<span class="fa fa-map-marker icons"><span class="hidden">hidden</span></span>
+							<p class="flex">
+								<span class="tit-name">Mail Office</span>
+								<span class="tit-contain">Sed ut perspiciatis unde omnis <br> Street Name, Los Angeles</span>
+							</p>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-xs-6 col-sm-3 col-md-3 store2">
+				<div class="store-item">
+				    <h3 class="block-title">Store 2</h3>
+					<ul class="store_info">
+					    <li>
+							<span class="fa fa-envelope icons"><span class="hidden">hidden</span></span>
+							<p class="flex">
+								<span class="tit-name">Email</span>
+								<span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@alothemes.com</a></span>
+								<span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@supermarket.com</a></span>
+							</p>
+						</li>
+						<li>
+							<span class="fa fa-phone icons"><span class="hidden">hidden</span></span>
+							<p class="flex">
+								<span class="tit-name">Phone</span>
+								<span class="tit-contain">+ 021.343.7575</span>
+								<span class="tit-contain">+ 021.343.7575</span>
+							</p>
+						</li>
+						<li>
+							<span class="fa fa-map-marker icons"><span class="hidden">hidden</span></span>
+							<p class="flex">
+								<span class="tit-name">Mail Office</span>
+								<span class="tit-contain">Sed ut perspiciatis unde omnis <br> Street Name, Los Angeles</span>
+							</p>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-xs-6 col-sm-3 col-md-3 store3">
+				<div class="store-item">
+				    <h3 class="block-title">Store 3</h3>
+					<ul class="store_info">
+					    <li>
+							<span class="fa fa-envelope icons"><span class="hidden">hidden</span></span>
+							<p class="flex">
+								<span class="tit-name">Email</span>
+								<span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@alothemes.com</a></span>
+								<span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@supermarket.com</a></span>
+							</p>
+						</li>
+						<li>
+							<span class="fa fa-phone icons"><span class="hidden">hidden</span></span>
+							<p class="flex">
+								<span class="tit-name">Phone</span>
+								<span class="tit-contain">+ 021.343.7575</span>
+								<span class="tit-contain">+ 021.343.7575</span>
+							</p>
+						</li>
+						<li>
+							<span class="fa fa-map-marker icons"><span class="hidden">hidden</span></span>
+							<p class="flex">
+								<span class="tit-name">Mail Office</span>
+								<span class="tit-contain">Sed ut perspiciatis unde omnis <br> Street Name, Los Angeles</span>
+							</p>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-xs-6 col-sm-3 col-md-3 store4">
+				<div class="store-item">
+				    <h3 class="block-title">Store 4</h3>
+					<ul class="store_info">
+					    <li>
+							<span class="fa fa-envelope icons"><span class="hidden">hidden</span></span>
+							<p class="flex">
+								<span class="tit-name">Email</span>
+								<span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@alothemes.com</a></span>
+								<span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@supermarket.com</a></span>
+							</p>
+						</li>
+						<li>
+							<span class="fa fa-phone icons"><span class="hidden">hidden</span></span>
+							<p class="flex">
+								<span class="tit-name">Phone</span>
+								<span class="tit-contain">+ 021.343.7575</span>
+								<span class="tit-contain">+ 021.343.7575</span>
+							</p>
+						</li>
+						<li>
+							<span class="fa fa-map-marker icons"><span class="hidden">hidden</span></span>
+							<p class="flex">
+								<span class="tit-name">Mail Office</span>
+								<span class="tit-contain">Sed ut perspiciatis unde omnis <br> Street Name, Los Angeles</span>
+							</p>
+						</li>
+					</ul>
+				</div>
+			</div>			
+		</div>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Block Custom Left Category  Bestseller]]></title>
+      <identifier><![CDATA[left-category]]></identifier>
+      <content><![CDATA[<div class="block left-module block-custom-left">{{widget type="magicproduct/widget_magicproduct" identifier="best-sale" template="magiccart/magicproduct/magicproduct_custom.phtml"}}</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Slide Demo 2]]></title>
+      <identifier><![CDATA[static-home-slide]]></identifier>
+      <content><![CDATA[<div>{{widget type="magicslider/widget_slide" identifier="slide2" template="magiccart/magicslider/magicslider.phtml"}}</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[page_menu]]></title>
+      <identifier><![CDATA[page_menu]]></identifier>
+      <content><![CDATA[<div class="header-bottom">
+    <div class="header-sticker">
+		<div class="container">
+		    <div class="border-bottom menu-mobile">
+			    <div class="menu-mobile-none">
+                                      {{block type="magicmenu/menu" name="mega.catalog.topnav" template="magiccart/magicmenu/topmenu.phtml"}}
+			    </div>
+			</div>
+		</div>
+	</div>
+</div> ]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[static_sections_top]]></title>
+      <identifier><![CDATA[static_sections_top]]></identifier>
+      <content><![CDATA[<!-- magiccategory -->
+<div class="page-alotheme static_sections_top">
+<div class="box-products top-category box-products-one">
+    <div class="show-5-products">
+     {{widget type="magiccategory/widget_magiccategory" identifier="latest-product-demo2" template="magiccart/magiccategory/magiccategory.phtml"}}
+	</div>
+</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[static_sections_bottom]]></title>
+      <identifier><![CDATA[static_sections_bottom]]></identifier>
+      <content><![CDATA[<div class="page-alotheme static_sections_bottom">
+<!-- box-background -->
+<div class="box-products box-background box-products-three bottom-product-timer">
+<div class="container">
+<div class="max-width">
+<div class="title-description text-center">
+<h2 class="title-ads">The Original</h2>
+<div class="desc-ads desc-ads-big">Chicken</div>
+<div class="desc-ads desc-ads-small">Burger</div>
+</div>
+{{widget type="magicproduct/widget_magicproduct" identifier="deals-of-the-day" template="magiccart/magicproduct/magicproduct.phtml"}}</div>
+</div>
+</div>
+<!-- magiccategory -->
+<div class="box-products box-background bottom-category box-products-four">
+<div class="container">
+<div class="max-width">
+<div class="title-description text-center">
+<div class="desc-ads desc-ads-big">A little Hot or Cold?</div>
+<div class="desc-ads desc-ads-small">Pick your own treatment</div>
+</div>
+</div>
+<div class="row">
+<div class="col-xs-12 col-sm-6 col-md-6"><img alt="banner" class="img-responsive" src="{{media url="wysiwyg/alothemes/static/demo2/img5.png"}}" /></div>
+<div class="col-xs-12 col-sm-6 col-md-6">{{widget type="magiccategory/widget_magiccategory" identifier="a-little-hot-or-cold" template="magiccart/magiccategory/magiccategory.phtml"}}</div>
+</div>
+</div>
+</div>
+<!-- Description Banner -->
+<div class="banner clearfix">
+<div class="banner-col banner-col1 pull-left">
+<div class="banner-boder-zoom"><a href="#"><img alt="banner" class="img-responsive" src="{{media url="wysiwyg/alothemes/static/demo2/img1.jpg"}}" /></a></div>
+</div>
+<div class="banner-col banner-col2 pull-left">
+<div class="banner-ads1">
+<div class="banner-boder-zoom"><a href="#"><img alt="banner" class="img-responsive" src="{{media url="wysiwyg/alothemes/static/demo2/img2.jpg"}}" /></a></div>
+</div>
+<div class="banner-ads2">
+<div class="banner-boder-zoom"><a href="#"><img alt="banner" class="img-responsive" src="{{media url="wysiwyg/alothemes/static/demo2/img3.jpg"}}" /></a></div>
+</div>
+</div>
+<div class="banner-col banner-col3 pull-left">
+<div class="banner-boder-zoom"><a href="#"><img alt="banner" class="img-responsive" src="{{media url="wysiwyg/alothemes/static/demo2/img4.jpg"}}" /></a></div>
+</div>
+</div>
+<!-- magicproduct -->
+<div class="box-products bottom-product box-products-five">
+<div class="container">{{widget type="magicproduct/widget_magicproduct" identifier="latest-product-demo2" template="magiccart/magicproduct/magicproduct_custom2.phtml"}}</div>
+</div>
+<!-- Local Menu -->
+<div class="box-menu bottom-menu box-background">
+<div class="container">
+<div class="max-width">
+<div class="title-description text-center">
+<h2 class="title-ads">This Week Local Menu</h2>
+<div class="desc-ads desc-ads-big">For Breakfast</div>
+</div>
+<div class="main-menu clearfix">
+<div class="main-menu-left">
+<div class="show-list-title show-for1 clearfix">
+<h2>Ham &amp; Cheese <br /> Omelette</h2>
+<div class="show-for-price clearfix"><span class="price"> <span>9</span> <sup class="sup2">95</sup> </span></div>
+<div class="desc-ads clearfix">Ricotta, sun dried tomatoes, garlic, mozzarella cheese, topped with lightly.</div>
+</div>
+<div class="show-list-title show-for2 clearfix">
+<h2>Loaded Veggie <br /> Omelette</h2>
+<div class="show-for-price clearfix"><span class="price"> <span>16</span> <sup class="sup2">95</sup> </span></div>
+<div class="desc-ads clearfix">Tender chicken, onion, capsicum and stretchy mozzarella, topped off with an apricot swirl.</div>
+</div>
+<div class="show-list-title show-for3 clearfix">
+<h2>Steak &amp; Eggs</h2>
+<div class="show-for-price clearfix"><span class="price"> <span>5</span> <sup class="sup2">95</sup> </span></div>
+<div class="desc-ads clearfix">Mouth watering pepperoni, cabanossi, mushroom, capsicum, black olives and stretchy mozzarella, seasoned with garlic and oregano.</div>
+</div>
+</div>
+<div class="main-menu-right">
+<div class="show-list-title show-for1 clearfix">
+<h2>Peanut Butter Cup <br /> Pancake</h2>
+<div class="sub-menu">
+<h3>With Cheese</h3>
+<div class="show-for-price clearfix"><span class="price"> <span>4</span> <sup class="sup2">95</sup> </span></div>
+</div>
+<div class="sub-menu">
+<h3>With Double Cheese</h3>
+<div class="show-for-price clearfix"><span class="price"> <span>5</span> <sup class="sup2">95</sup> </span></div>
+</div>
+</div>
+<div class="show-list-title show-for2 clearfix">
+<h2>Hearty Breakfast <br /> Skillet</h2>
+<div class="show-for-price clearfix"><span class="price"> <span>12</span> <sup class="sup2">95</sup> </span></div>
+<div class="desc-ads clearfix">Tender chicken, onion, capsicum and stretchy mozzarella, topped off.</div>
+</div>
+<div class="show-list-title show-for3 clearfix">
+<h2>Bruschetta</h2>
+<div class="show-for-price clearfix"><span class="price"> <span>5</span> <sup class="sup2">95</sup> </span></div>
+<div class="desc-ads clearfix">Tender chicken, onion, capsicum and stretchy mozzarella.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<!-- Blog -->
+<div class="alo-blog">
+<div class="container">{{widget type="blog/slide" title="Latest Posts Blog" categories="1,2,3,4,5,6,7,8" blog_count="5" slide="1" controls="1" speed="800" pause="1" row="1" portrait="1" landscape="1" tablet="2" desktop="2" visibleItems="2" marginColumn="30" widthImages="585" heightImages="380"}}</div>
+</div>
+<!-- About Home -->
+<div class="panel-about our-story">
+<div class="container">
+<div class="row our-story">
+<div class="col-md-5 col-sm-5 col-xs-12"><img alt="about" class="img-responsive" src="{{media url="wysiwyg/alothemes/cms/about-us.jpg"}}" /></div>
+<div class="col-md-7 col-sm-7 col-xs-12">
+<div class="block-content">
+<div class="block-title">
+<h2>About Us</h2>
+</div>
+<p>Proin ac semper mi. Phasellus magna elit, dapibus at egestas a, facilisis nec ligula. In vitae ex ante. Aliquam interdum maximus dui quis sodales. Cras vel mi diam. Phasellus mi ante, iaculis nec tempus ac, tincidunt sit amet eros. Fusce malesuada elit massa, ac eleifend massa ligula, semper sed faucibus vitae, fermentum sed ex.</p>
+<a class="read-link" href="{{store url=""}}about-magento-demo-store/">Read More</a></div>
+</div>
+</div>
+</div>
+</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[block_footer_top]]></title>
+      <identifier><![CDATA[block_footer_top]]></identifier>
+      <content><![CDATA[<div class="google-map">
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d387190.27991381485!2d-74.25987514580467!3d40.697670063772776!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89c24fa5d33f083b%3A0xc80b8f06e177fe62!2zVGjDoG5oIHBo4buRIE5ldyBZb3JrLCBUaeG7g3UgYmFuZyBOZXcgWW9yaw!5e0!3m2!1svi!2s!4v1481818588995" width="600" height="450"  style="border:0" allowfullscreen></iframe>
+			</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[block_footer_bottom]]></title>
+      <identifier><![CDATA[block_footer_bottom]]></identifier>
+      <content><![CDATA[<div class="container">
+	<div class="footer">
+		<div class="row">
+		    <div class="col-md-3 col-sm-4 col-xs-12">
+			    <div class="collapsible mobile-collapsible">
+					<div class="block-content-statick">
+						<div class="logo-footer">
+							<a href="#">
+								<img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/demo2/introduce-logo.png"}}" alt="logo" />
+							</a>
+						</div>
+						<ul class="block-monday">
+							<li><span class="title-name">Monday - Thursday</span><span class="title">11:00 - 21:00</span></li>
+							<li><span class="title-name">Friday - Saturday</span><span class="title">11:30 - 22:00</span></li>
+							<li><span class="title-name">Sundays</span><span class="title">12:00 - 20:00</span></li>
+						</ul>
+						<div class="social-footer">
+						    <h2>Follow us:</h2>
+							<div class="socials">
+								<a href="#" class="social-link"><span class="fa fa-facebook"><span class="hidden">hidden</span></span></a>
+								<a href="#" class="social-link"><span class="fa fa-twitter"><span class="hidden">hidden</span></span></a>
+								<a href="#" class="social-link"><span class="fa fa-instagram"><span class="hidden">hidden</span></span></a>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-6 col-sm-4 col-xs-12">
+				<div class="collapsible mobile-collapsible">
+					<div class="block-contact">
+						{{block type="core/template" name="contactForm" template="contacts/form-home.phtml"}}
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3 col-sm-4 col-xs-12">
+				<div class="collapsible mobile-collapsible">
+					<div class="block-content-statick">
+						<ul class="address-list">
+							<li class="feature-icon first">
+								<p class="no-margin"><span class="icon fa fa-map-marker"><span class="hidden">hidden</span></span><span class="tit-contain">01-947 South Drive, Houston, TX 77057, United Kingdom</span></p>
+							</li>
+							<li class="feature-icon">
+								<p><span class="icon fa fa-mobile"><span class="hidden">hidden</span></span><span class="tit-contain">+1 555 125 9455, +42 548 78 983</span></p>
+							</li>
+							<li class="feature-icon">
+								<p><span class="icon fa fa-envelope-o"><span class="hidden">hidden</span></span><span class="tit-contain">suport@alothemes.com</span></p>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+  </block>
+</root>

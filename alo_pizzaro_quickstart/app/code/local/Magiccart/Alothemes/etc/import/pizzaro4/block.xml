@@ -1,0 +1,250 @@
+<?xml version="1.0"?>
+<root>
+  <block>
+    <item>
+      <title><![CDATA[Footer Links]]></title>
+      <identifier><![CDATA[footer_links]]></identifier>
+      <content><![CDATA[
+<ul>
+    <li><a href="{{store direct_url="about-magento-demo-store"}}">About Us</a></li>
+    <li><a href="{{store direct_url="customer-service"}}">Customer Service</a></li>
+<li class="last privacy"><a href="{{store direct_url="privacy-policy-cookie-restriction-mode"}}">Privacy Policy</a></li>
+</ul>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Footer Links Company]]></title>
+      <identifier><![CDATA[footer_links_company]]></identifier>
+      <content><![CDATA[
+<div class="links">
+    <div class="block-title">
+        <strong><span>Company</span></strong>
+    </div>
+    <ul>
+        <li><a href="{{store url=""}}about-magento-demo-store/">About Us</a></li>
+        <li><a href="{{store url=""}}contacts/">Contact Us</a></li>
+        <li><a href="{{store url=""}}customer-service/">Customer Service</a></li>
+        <li><a href="{{store url=""}}privacy-policy-cookie-restriction-mode/">Privacy Policy</a></li>
+    </ul>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Cookie restriction notice]]></title>
+      <identifier><![CDATA[cookie_restriction_notice_block]]></identifier>
+      <content><![CDATA[<p>This website requires cookies to provide all of its features. For more information on what data is contained in the cookies, please see our <a href="{{store direct_url="privacy-policy-cookie-restriction-mode"}}">Privacy Policy page</a>. To accept cookies from this site, please click the Allow button below.</p>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Links and Hotline]]></title>
+      <identifier><![CDATA[hotline]]></identifier>
+      <content><![CDATA[<div class="main-header">
+    <div class="sec-service">
+		<div class="toggle-tab">
+			<div class="icon-head lnr lnr-user"><span class="hidden">hidden</span></div>
+		</div>
+		<div class="toggle-content">
+			<ul class="menu">
+				<li class="menu-item"><a href="{{store url=""}}customer-service/">Customer Service</a></li>
+				<li class="menu-item"><a href="{{store url=""}}about-magento-demo-store/">About</a></li>
+				<li class="menu-item"><a href="{{store url=""}}contacts/">Contact Us</a></li>
+				<li class="menu-item"><a href="{{store url=""}}locations/">Locations</a></li>
+			</ul>
+		</div>
+	</div>
+	<div class="support">
+		<span>Call and Order in <span class="address">London</span></span>
+		<span class="big-phone">54 548 779 654</span>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Menu Block Right Pizza]]></title>
+      <identifier><![CDATA[menu-block-right-pizza]]></identifier>
+      <content><![CDATA[<div class="cms-static-banner-menu-right banner-menu-right">
+	<div class="banner-menu-box">
+		<a href="#"><img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/img-menu-right.png"}}" alt="" /></a>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[store_contact]]></title>
+      <identifier><![CDATA[store_contact]]></identifier>
+      <content><![CDATA[<div class="store-contact">
+	<div class="container">
+		<div class="row">
+			<div class="col-xs-6 col-sm-3 col-md-3 store1">
+				<div class="store-item">
+				    <h3 class="block-title">Store 1</h3>
+					<ul class="store_info">
+					    <li>
+							<span class="fa fa-envelope icons"><span class="hidden">hidden</span></span>
+							<p class="flex">
+								<span class="tit-name">Email</span>
+								<span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@alothemes.com</a></span>
+								<span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@supermarket.com</a></span>
+							</p>
+						</li>
+						<li>
+							<span class="fa fa-phone icons"><span class="hidden">hidden</span></span>
+							<p class="flex">
+								<span class="tit-name">Phone</span>
+								<span class="tit-contain">+ 021.343.7575</span>
+								<span class="tit-contain">+ 021.343.7575</span>
+							</p>
+						</li>
+						<li>
+							<span class="fa fa-map-marker icons"><span class="hidden">hidden</span></span>
+							<p class="flex">
+								<span class="tit-name">Mail Office</span>
+								<span class="tit-contain">Sed ut perspiciatis unde omnis <br> Street Name, Los Angeles</span>
+							</p>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-xs-6 col-sm-3 col-md-3 store2">
+				<div class="store-item">
+				    <h3 class="block-title">Store 2</h3>
+					<ul class="store_info">
+					    <li>
+							<span class="fa fa-envelope icons"><span class="hidden">hidden</span></span>
+							<p class="flex">
+								<span class="tit-name">Email</span>
+								<span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@alothemes.com</a></span>
+								<span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@supermarket.com</a></span>
+							</p>
+						</li>
+						<li>
+							<span class="fa fa-phone icons"><span class="hidden">hidden</span></span>
+							<p class="flex">
+								<span class="tit-name">Phone</span>
+								<span class="tit-contain">+ 021.343.7575</span>
+								<span class="tit-contain">+ 021.343.7575</span>
+							</p>
+						</li>
+						<li>
+							<span class="fa fa-map-marker icons"><span class="hidden">hidden</span></span>
+							<p class="flex">
+								<span class="tit-name">Mail Office</span>
+								<span class="tit-contain">Sed ut perspiciatis unde omnis <br> Street Name, Los Angeles</span>
+							</p>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-xs-6 col-sm-3 col-md-3 store3">
+				<div class="store-item">
+				    <h3 class="block-title">Store 3</h3>
+					<ul class="store_info">
+					    <li>
+							<span class="fa fa-envelope icons"><span class="hidden">hidden</span></span>
+							<p class="flex">
+								<span class="tit-name">Email</span>
+								<span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@alothemes.com</a></span>
+								<span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@supermarket.com</a></span>
+							</p>
+						</li>
+						<li>
+							<span class="fa fa-phone icons"><span class="hidden">hidden</span></span>
+							<p class="flex">
+								<span class="tit-name">Phone</span>
+								<span class="tit-contain">+ 021.343.7575</span>
+								<span class="tit-contain">+ 021.343.7575</span>
+							</p>
+						</li>
+						<li>
+							<span class="fa fa-map-marker icons"><span class="hidden">hidden</span></span>
+							<p class="flex">
+								<span class="tit-name">Mail Office</span>
+								<span class="tit-contain">Sed ut perspiciatis unde omnis <br> Street Name, Los Angeles</span>
+							</p>
+						</li>
+					</ul>
+				</div>
+			</div>
+			<div class="col-xs-6 col-sm-3 col-md-3 store4">
+				<div class="store-item">
+				    <h3 class="block-title">Store 4</h3>
+					<ul class="store_info">
+					    <li>
+							<span class="fa fa-envelope icons"><span class="hidden">hidden</span></span>
+							<p class="flex">
+								<span class="tit-name">Email</span>
+								<span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@alothemes.com</a></span>
+								<span class="tit-contain"><a href="mailto:suport@alothemes.com">suport@supermarket.com</a></span>
+							</p>
+						</li>
+						<li>
+							<span class="fa fa-phone icons"><span class="hidden">hidden</span></span>
+							<p class="flex">
+								<span class="tit-name">Phone</span>
+								<span class="tit-contain">+ 021.343.7575</span>
+								<span class="tit-contain">+ 021.343.7575</span>
+							</p>
+						</li>
+						<li>
+							<span class="fa fa-map-marker icons"><span class="hidden">hidden</span></span>
+							<p class="flex">
+								<span class="tit-name">Mail Office</span>
+								<span class="tit-contain">Sed ut perspiciatis unde omnis <br> Street Name, Los Angeles</span>
+							</p>
+						</li>
+					</ul>
+				</div>
+			</div>			
+		</div>
+	</div>
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Block Custom Left Category  Bestseller]]></title>
+      <identifier><![CDATA[left-category]]></identifier>
+      <content><![CDATA[<div class="block left-module block-custom-left">{{widget type="magicproduct/widget_magicproduct" identifier="best-sale" template="magiccart/magicproduct/magicproduct_custom.phtml"}}</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[Slide Demo 4]]></title>
+      <identifier><![CDATA[static-home-slide]]></identifier>
+      <content><![CDATA[<div>{{widget type="magicslider/widget_slide" identifier="slide4" template="magiccart/magicslider/magicslider.phtml"}}</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[social]]></title>
+      <identifier><![CDATA[social]]></identifier>
+      <content><![CDATA[<div class="socials">
+					<a href="#" class="social-link"><span class="fa fa-facebook"><span class="hidden">hidden</span></span></a>
+					<a href="#" class="social-link"><span class="fa fa-twitter"><span class="hidden">hidden</span></span></a>
+					<a href="#" class="social-link"><span class="fa fa-pinterest"><span class="hidden">hidden</span></span></a>
+					<a href="#" class="social-link"><span class="fa fa-youtube-play"><span class="hidden">hidden</span></span></a>
+				</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+    <item>
+      <title><![CDATA[block_footer_bottom]]></title>
+      <identifier><![CDATA[block_footer_bottom]]></identifier>
+      <content><![CDATA[<div class="footer">
+	<div class="logo-footer">
+		<a href="#">
+			<img class="img-responsive" src="{{media url="wysiwyg/alothemes/static/demo4/logo.png"}}" alt="logo" />
+		</a>
+	</div>
+	<div class="menu-footer footer-center">
+		<ul class="menu">
+			<li class="menu-item"><a href="#">Help</a></li>
+			<li class="menu-item"><a href="#">Gift Cards</a></li>
+			<li class="menu-item"><a href="#">International</a></li>
+			<li class="menu-item"><a href="#">Security</a></li>
+			<li class="menu-item"><a href="#">Privacy</a></li>
+			<li class="menu-item"><a href="#">Accessibility</a></li>
+		</ul>
+	</div>
+	{{block type="newsletter/subscribe" template="newsletter/subscribe.phtml"}}
+</div>]]></content>
+      <is_active><![CDATA[1]]></is_active>
+    </item>
+  </block>
+</root>

@@ -1,0 +1,6 @@
+1. Update 10-10-2017
+	Removed file:
+	app\design\frontend\alopizzaro\default\template\checkout\onepage\payment.phtml
+	app\design\frontend\alopizzaro\default\template\checkout\onepage\shipping.phtml
+	app\design\frontend\alopizzaro\default\template\checkout\onepage\shipping_method.phtml
+	app\design\frontend\alopizzaro\default\template\checkout\multishipping\shipping.phtml
